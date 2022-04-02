@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,3 +24,6 @@ Things you may want to cover:
 
 * ...
 New social app created
+=======
+# SocialApp
+>>>>>>> 26f8af1d6877a2c8798045e7230566d80daaf145
